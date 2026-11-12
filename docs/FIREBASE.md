@@ -9,7 +9,7 @@ wer was darf, regeln die [Sicherheitsregeln](../firestore.rules) auf dem Server.
 ## Einmalige Einrichtung
 
 1. **Login aktivieren:** Firebase Console → Authentication → Sign-in method → *E-Mail/Passwort* aktivieren.
-2. **Domain erlauben:** Authentication → Einstellungen → Autorisierte Domains → `cillx1.github.io` hinzufügen.
+2. **Domain erlauben:** Authentication → Einstellungen → Autorisierte Domains → `cillx111.github.io` hinzufügen.
 3. **Regeln veröffentlichen:** Firestore Database → Regeln → Inhalt von `firestore.rules` einfügen → Veröffentlichen.
 
 ### Regeln automatisch deployen (optional)

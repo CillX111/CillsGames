@@ -6,8 +6,8 @@
   "type": "module",
   "license": "GPL-3.0-only",
   "author": "Cillian Fontannaz",
-  "repository": { "type": "git", "url": "https://github.com/CillX1/CillsGames.git" },
-  "homepage": "https://cillx1.github.io/CillsGames/",
+  "repository": { "type": "git", "url": "https://github.com/CillX111/CillsGames.git" },
+  "homepage": "https://cillx111.github.io/CillsGames/",
   "scripts": {
     "start": "node scripts/serve.mjs",
     "test": "node --test tests/unit/*.test.js",

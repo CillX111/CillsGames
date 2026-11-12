@@ -6,9 +6,9 @@
 
 **20 Browser-Spiele · Rangliste · Shop · Casino**
 
-[▶ Jetzt spielen](https://cillx1.github.io/CillsGames/)
+[▶ Jetzt spielen](https://cillx111.github.io/CillsGames/)
 
-[![Tests](https://github.com/CillX1/CillsGames/actions/workflows/ci.yml/badge.svg)](https://github.com/CillX1/CillsGames/actions/workflows/ci.yml)
+[![Tests](https://github.com/CillX111/CillsGames/actions/workflows/ci.yml/badge.svg)](https://github.com/CillX111/CillsGames/actions/workflows/ci.yml)
 
 </div>
 
